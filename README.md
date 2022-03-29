@@ -1,7 +1,6 @@
 # Shop-shop
 
 * [Description](#description)
-* [Deployed Links](#deployed links)
 * [Screenshot](#Screenshot)
 
 ## Description
