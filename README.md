@@ -1,8 +1,8 @@
 # Shop-shop
 
-*[Description](#description)
-*[DeployedLinks](#deployed links)
-*[Screenshot](#Screenshot)
+[*Description](#description),
+[*DeployedLinks](#deployed links),
+[*Screenshot](#Screenshot)
 
 ## Description
 The Shop-shop app is developed by using React to shop some household products.
